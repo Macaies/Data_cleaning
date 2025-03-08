@@ -24,7 +24,7 @@ Extracting and transforming data fields
 
 ##1️⃣ Clone the Repository
 
-git clone https://github.com/Macaies/Dataset_cleaning.git 
+git clone https://github.com/Macaies/Data_cleaning
 cd dataset-clean
 
 2️⃣ Install Dependencies
